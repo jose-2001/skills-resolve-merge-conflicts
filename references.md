@@ -1,1 +1,4 @@
-Jojo's Bizarre adventure
+# References
+* Jojo's Bizarre adventure
+* octocat 1 😈
+* The Bible
